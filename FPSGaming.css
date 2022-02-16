@@ -1,0 +1,43 @@
+*{margin:0px;
+padding:0px;
+}
+.container{
+	margin-top:200px;
+	margin-bottom:200px;
+	margin-left:20%;
+	margin-right:20%;
+}
+body{
+	background-color:#ABDAE1;
+}
+
+h1{
+	color:#9A348E;
+    font-family:'Brush Script MT',cursive;
+}
+
+.ptitle1{color:#004E98;
+	font-family:'Courier New',monospace;
+}
+
+.ptitle2{color:#004E98;
+	font-family:'Courier New',monospace;
+}
+
+.ptitle3{color:#004E98;
+	font-family:'Courier New',monospace;
+}
+
+
+.p1{color:#60A561;
+	font-family:"Courier New",Courier,monospace;
+}
+.p2{color:#60A561;
+	font-family:"Courier New",Courier,monospace;
+}
+.p3{color:#60A561;
+	font-family:"Courier New",Courier,monospace;
+}
+.p4{color:#60A561;
+	font-family:"Courier New",Courier,monospace;
+}'Fantasy',Papyrus;

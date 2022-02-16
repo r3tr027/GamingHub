@@ -1,0 +1,48 @@
+*{margin:0px;
+padding:0px;
+}
+.container{
+	margin-top:100px;
+	margin-bottom:100px;
+	margin-left:10%;
+	margin-right:10%;
+}
+body{background-color:lightblue;
+}
+	
+.menu ul{
+	list-style-type:none;
+	text-align:center;
+	margin:10px;
+	font-size:20px;
+}
+.menu ul li{
+	display:inline;
+	margin:20px;
+}
+.logo{
+	text-align:center;	
+}
+	
+h1{
+	color:#9A348E;
+	font-family:'Fantasy',Papyrus;
+}
+
+.ptitle1{color:#004E98;
+	font-family:'Courier New',monospace;
+}
+
+.ptitle2{color:#004E98;
+	font-family:'Courier New',monospace;
+}
+
+.p1{color:#6457A6;
+font-family:monospace;
+}
+.p2{color:#6457A6;
+font-family:monospace;
+}
+.p3{color:#6457A6;
+font-family:monospace;
+}
